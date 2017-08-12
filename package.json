@@ -1,6 +1,6 @@
 {
-    "name": "encapsulate-htmlcss",
-    "version": "1.0.0",
+    "name": "gulp-encapsulate-htmlcss",
+    "version": "1.0.2",
     "description": "adds unique attribute html tags and css selectors",
     "main": "index.js",
     "scripts": {
@@ -13,6 +13,10 @@
     ],
     "author": "A50",
     "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/A50/encapsulate-htmlcss.git"
+    },
     "dependencies": {
         "gulp-util": "^3.0.8",
         "path": "^0.12.7",

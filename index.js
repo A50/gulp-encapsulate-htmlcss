@@ -5,7 +5,7 @@ const postcss = require('postcss');
 const path = require('path');
 const shortid = require('shortid');
 const PluginError = gutil.PluginError;
-const PLUGIN_NAME = 'encapsulate-htmlcss';
+const PLUGIN_NAME = 'gulp-encapsulate-htmlcss';
 
 
 module.exports = (options) => {
