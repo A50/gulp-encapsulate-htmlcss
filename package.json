@@ -1,0 +1,23 @@
+{
+    "name": "encapsulate-htmlcss",
+    "version": "1.0.0",
+    "description": "adds unique attribute html tags and css selectors",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "css",
+        "html",
+        "encapsulate"
+    ],
+    "author": "A50",
+    "license": "ISC",
+    "dependencies": {
+        "gulp-util": "^3.0.8",
+        "path": "^0.12.7",
+        "postcss": "^6.0.8",
+        "shortid": "^2.2.8",
+        "through2": "^2.0.3"
+    }
+}
