@@ -1,2 +1,2 @@
-# encapsulate-htmlcss
+# gulp-encapsulate-htmlcss
 Изоляция стилей
