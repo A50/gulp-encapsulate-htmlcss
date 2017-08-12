@@ -26,3 +26,5 @@ gulp.task('encapsulate', () => {
 
 
 ```
+Пример проекта:
+['https://github.com/A50/encapsulateHtmlCss'](https://github.com/A50/encapsulateHtmlCss)
