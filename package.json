@@ -1,6 +1,6 @@
 {
     "name": "gulp-encapsulate-htmlcss",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "adds unique attribute html tags and css selectors",
     "main": "index.js",
     "scripts": {
